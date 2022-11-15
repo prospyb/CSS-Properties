@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+#first_section {
+    color: green;
+    font-size: 14px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    font-style: italic;
+    font-style: italic;
+}
+
+#first_section p:first-child {
+    text-align: center;
+}
+
+#second_section {
+    color: red;
+    font-size: 14px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    font-style: italic;
+}
+
+#second_section p:first-child {
+    text-align: center;
+}
+
+#third_section {
+    color: blue;
+    font-size: 14px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    font-style: italic;
+}
+
+#third_section p:first-child {
+    text-align: center;
+}
